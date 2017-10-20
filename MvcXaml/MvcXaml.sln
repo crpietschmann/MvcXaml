@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcXamlTest", "MvcXamlTest\MvcXamlTest.csproj", "{DAD106B4-7616-4C3E-A7BC-163ADC781AEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcXaml", "MvcXaml\MvcXaml.csproj", "{338699E5-4A02-40F7-AA0E-C2F369121C7E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs06
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MvcXaml\\MvcXaml.csproj
+		SccProjectName1 = MvcXaml
+		SccLocalPath1 = MvcXaml
+		SccProjectUniqueName2 = MvcXamlTest\\MvcXamlTest.csproj
+		SccProjectName2 = MvcXamlTest
+		SccLocalPath2 = MvcXamlTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD106B4-7616-4C3E-A7BC-163ADC781AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD106B4-7616-4C3E-A7BC-163ADC781AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD106B4-7616-4C3E-A7BC-163ADC781AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD106B4-7616-4C3E-A7BC-163ADC781AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338699E5-4A02-40F7-AA0E-C2F369121C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338699E5-4A02-40F7-AA0E-C2F369121C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338699E5-4A02-40F7-AA0E-C2F369121C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338699E5-4A02-40F7-AA0E-C2F369121C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
